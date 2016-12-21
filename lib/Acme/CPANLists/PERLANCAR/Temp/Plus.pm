@@ -9,6 +9,7 @@ our @Module_Lists = (
         entries => [
             {module => 'App::Trrr', date=>'2016-12-15'},
             {module => 'App::squaretag', date=>'2016-12-15'},
+            {module => 'App::Wax', date=>'2016-12-21'},
         ],
     },
 );
