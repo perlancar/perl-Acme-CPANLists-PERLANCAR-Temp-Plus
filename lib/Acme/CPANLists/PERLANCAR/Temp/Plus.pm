@@ -10,6 +10,7 @@ our @Module_Lists = (
             {module => 'App::Trrr', date=>'2016-12-15'},
             {module => 'App::Wax', date=>'2016-12-21'},
             {module => 'App::cpangrep', date=>'2016-12-25'},
+            {module => 'Acme::PPIx::MetaSyntactic', date=>'2017-02-04'},
         ],
     },
 );
